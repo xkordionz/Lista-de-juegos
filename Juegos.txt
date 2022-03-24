@@ -1,12 +1,11 @@
 Id,Name,Date,Description,Value,Business
-1,The Legend of Zelda,Es un videojuego de acción-aventura en la cual su trama es describir las heroicas aventuras del joven guerrero Link,150000,Nintendo
-2,Halo Infinite,Halo Infinite es un videojuego de disparos en primera persona de ciencia ficción,250000,Bungie Studios
-3,Resident Evil VIII,Resident Evil Village es un videojuego shooter en primera persona perteneciente al género de los videojuegos de terror,200000,Capcom
-4,Crash Bandicoot 4: It's About Time,Es un videojuego de plataformas y es la octava entrega de la serie de Crash Bandicoot,170000,Toys for Bob
-5,Grand Theft Auto V,Es un videojuego de acción-aventura de mundo abierto,150000,Rockstar North
-6,Assassin´s Creed Valhalla,Ee un videojuego de acciión-aventura de mundo abierto ambientado en la época de los vikingos,280000,Ubisoft Montreal
-7,Valorant,Videojuego de disparos en primera persona multijugador online,30000,Riot Games
-8,League of Legends,Es un videojuego del género multijugador de arena de batalla en línea y deporte electrónico,40000,Riot Games
-9,Gears 5,es un videojuego de acción en tercera persona con opcion de multijugador online o juego local,220000,The Coalition
-10,Pro Evolution Soccer 2022,Es un videojuego de simulación de futbol con opcion multijugador online,280000,Konami Digital Entertainment
-
+1,The Legend of Zelda: Breath of the wild,03/03/2017,Es un videojuego de acción-aventura en la cual su trama es describir las heroicas aventuras del joven guerrero Link,150000,Nintendo
+2,Halo Infinite,15/11/2021,Halo Infinite es un videojuego de disparos en primera persona de ciencia ficción,250000,Bungie Studios
+3,Resident Evil VIII,7/05/2021,Resident Evil Village es un videojuego shooter en primera persona perteneciente al género de los videojuegos de terror,200000,Capcom
+4,Crash Bandicoot 4: It's About Time,16/09/2020,Es un videojuego de plataformas y es la octava entrega de la serie de Crash Bandicoot,170000,Toys for Bob
+5,Grand Theft Auto V,17/09/2013,Es un videojuego de acción-aventura de mundo abierto,150000,Rockstar North
+6,Assassin´s Creed Valhalla,10/11/2020,Es un videojuego de acciión-aventura de mundo abierto ambientado en la época de los vikingos,280000,Ubisoft Montreal
+7,Valorant,2/06/2020,Videojuego de disparos en primera persona multijugador online,30000,Riot Games
+8,League of Legends,27/10/2009,Es un videojuego del género multijugador de arena de batalla en línea y deporte electrónico,40000,Riot Games
+9,Gears 5,06/07/2019,Es un videojuego de acción en tercera persona con opcion de multijugador online o juego local,220000,The Coalition
+10,Pro Evolution Soccer 2021,15/09/2020,Es un videojuego de simulación de futbol con opcion multijugador online,280000,Konami Digital Entertainment
