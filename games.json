@@ -1,12 +1,82 @@
 [
   {
-    "nombre": "Pepito Conejo",
-    "edad": 25,
-    "carnet de conducir": true
+    "id": 1,
+    "nombre": "The Legend of Zelda: Breath of the wild",
+    "fecha": "03/03/2017",
+    "descripcion": "Es un videojuego de acción-aventura en la cual su trama es describir las heroicas aventuras del joven guerrero Link",
+    "valor": 150000,
+    "empresa": "Nintendo"
   },
   {
-    "nombre": "Ana Barberá",
-    "edad": 90,
-    "carnet de conducir": false
+    "id": 2,
+    "nombre": "Halo Infinite",
+    "fecha": "15/11/2021",
+    "descripcion": "Halo Infinite es un videojuego de disparos en primera persona de ciencia ficción",
+    "valor": 250000,
+    "empresa": "Bungie Studios"
+  },
+  {
+    "id": 3,
+    "nombre": "Resident Evil VIII",
+    "fecha": "7/05/2021",
+    "descripcion": "Resident Evil Village es un videojuego shooter en primera persona perteneciente al género de los videojuegos de terror",
+    "valor": 200000,
+    "empresa": "Capcom"
+  },
+  {
+    "id": 4,
+    "nombre": "Crash Bandicoot 4: It's About Time",
+    "fecha": "16/09/2020",
+    "descripcion": "Es un videojuego de plataformas y es la octava entrega de la serie de Crash Bandicoot",
+    "valor": 170000,
+    "empresa": "Toys for Bob"
+  },
+  {
+    "id": 5,
+    "nombre": "Grand Theft Auto V",
+    "fecha": "17/09/2013",
+    "descripcion": "Es un videojuego de acción-aventura de mundo abierto",
+    "valor": 150000,
+    "empresa": "Rockstar North"
+  },
+  {
+    "id": 6,
+    "nombre": "Assassin´s Creed Valhalla",
+    "fecha": "10/11/2020",
+    "descripcion": "Es un videojuego de acciión-aventura de mundo abierto ambientado en la época de los vikingos",
+    "valor": 280000,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "id": 7,
+    "nombre": "Valorant",
+    "fecha": "2/06/2020",
+    "descripcion": "Videojuego de disparos en primera persona multijugador online",
+    "valor": 30000,
+    "empresa": "Riot Games"
+  },
+  {
+    "id": 8,
+    "nombre": "League of Legends",
+    "fecha": "27/10/2009",
+    "descripcion": "Es un videojuego del género multijugador de arena de batalla en línea y deporte electrónico",
+    "valor": 40000,
+    "empresa": "Riot Games"
+  },
+  {
+    "id": 9,
+    "nombre": "Gears 5",
+    "fecha": "06/07/2019",
+    "descripcion": "Es un videojuego de acción en tercera persona con opcion de multijugador online o juego local",
+    "valor": 220000,
+    "empresa": "The Coalition"
+  },
+  {
+    "id": 10,
+    "nombre": "Pro Evolution Soccer 2021",
+    "fecha": "15/09/2020",
+    "descripcion": "Es un videojuego de simulación de futbol con opcion multijugador online",
+    "valor": 280000,
+    "empresa": "Konami Digital Entertainment"
   }
 ]
